@@ -1,3 +1,4 @@
+[![MasterHead](https://media.discordapp.net/attachments/1028572092498718751/1101447889554767942/Harshs_background.jpg?width=1440&height=480)](https://oharsh.vip)
 <h1 align="center">Hola, I am Harsh</h1>
 <h3 align="center">Gamer and Coder from India</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/0ZNy-QfbcBYAAAAC/anime.gif")
