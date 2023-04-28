@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I am Harsh</h1>
 <h3 align="center">Gamer and Coder from India</h3>
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/0ZNy-QfbcBYAAAAC/anime.gif")
 
-<img align="right' alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riotly&label=Profile%20views&color=0e75b6&style=flat" alt="riotly" /> </p>
 
